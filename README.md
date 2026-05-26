@@ -1,9 +1,17 @@
 # codealpha_tasks
+
+
 **Emotion Recognition from Speech**
+
+
 🎯** Project: Emotion Recognition from Speech**
+
+
 **📌 Objective**
 
 Recognize human emotions (happy, sad, angry, neutral, etc.) from speech audio using Deep Learning and Speech Signal Processing.
+
+
 
 **🛠 Technologies Used**
 Python
