@@ -99,3 +99,6 @@ Real-time emotion detection
 Better accuracy using CNN+LSTM
 Noise reduction techniques
 More datasets
+
+
+Full colab code : https://colab.research.google.com/drive/1k4LJjg7OYd9uEhWY8zpG7TgMCWKsbemx?usp=sharing
