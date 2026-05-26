@@ -35,6 +35,8 @@ RAVDESS Dataset
 
 **📦 Install Required Libraries**
 !pip install librosa tensorflow numpy pandas matplotlib scikit-learn
+
+
 📁 Project Folder Structure
 EmotionRecognition/
 │
@@ -69,16 +71,21 @@ Model trained using TensorFlow/Keras.
 
 Model predicts emotion from unseen audio files.
 
+
 **📌 Advantages**
 Human-computer interaction
 Mental health analysis
 Call center monitoring
 Virtual assistants
+
+
 **📌 Applications**
 AI Assistants
 Customer Support
 Smart Healthcare
 Emotion-based recommendation systems
+
+
 **📌 Future Improvements**
 Real-time emotion detection
 Better accuracy using CNN+LSTM
